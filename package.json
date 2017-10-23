@@ -1,0 +1,20 @@
+{
+  "name": "gittoken-auction-ui",
+  "version": "0.0.1",
+  "description": "GitToken Auction React Components for GitToken Solidity Smart Contracts",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "GitToken",
+    "Ethereum",
+    "Solidity",
+    "Git",
+    "Token",
+    "ERC20",
+    "React"
+  ],
+  "author": "Ryan Tate <ryan.tate@gittoken.io>",
+  "license": "MIT"
+}
